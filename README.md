@@ -3,6 +3,7 @@ This project is a Django-based web application that manages subscription service
 It includes endpoints to manage subscriptions, calculate total prices, track the status of active subscriptions and more. 
 The project also utilizes Celery for background tasks and Redis for task queuing, along with caching mechanisms to optimize performance.
 
+
 # Features
 Subscription Management: A REST API that allows listing subscriptions, calculating total price, and fetching information on active subscriptions.
 Caching: Price calculations are cached for faster access, and cache invalidation is done whenever necessary.
