@@ -14,15 +14,15 @@ Optimization of sql queries: caching, indexes, annotations and aggregations...
 Docker: for easy configuration.
 
 # Technologies
-Django
-Django Rest Framework
-Postgresql
-Docker
-Redis
-Celery
-Python
-Coverage
-Flower
+Django,
+Django Rest Framework,
+Postgresql,
+Docker,
+Redis,
+Celery,
+Python,
+Coverage,
+Flower,
 
 # Set-UP
 (bash) git clone https://github.com/Qermon/backend.git or use get from Version Control
