@@ -25,7 +25,7 @@ Coverage,
 Flower,
 
 # Set-UP
-1)(bash) git clone https://github.com/Qermon/backend.git or use get from Version Control
-2)Add .env file in project root folder(service)
-3)In .env write your SECRET_KEY(Example: SECRET_KEY=123)
-4)(bash) docker-compose up --build
+1) (bash) git clone https://github.com/Qermon/backend.git or use get from Version Control
+2) Add .env file in project root folder(service)
+3) In .env write your SECRET_KEY(Example: SECRET_KEY=123)
+4) (bash) docker-compose up --build
